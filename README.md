@@ -50,4 +50,6 @@ How to run project:
 
 For Testing:
 
-Try Inputing values that are not conventional (negative,zero,strings etc) at different sections of the code
+-Try Inputing values that are not conventional (negative,zero,strings etc) at different sections of the code
+-Ensuring main_menu calls functions correctly.
+-Manual testing for navigation and useabiltiy
