@@ -2,9 +2,9 @@ Electrical Circuit Calculator
 
 Overview:
 
-This project is a Python-based interactive calculator designed to perform various electrical circuit computations. It provides tools for calculating series/parallel resistances, converting resistor networks between Star (Y) and Delta (Δ) configurations, determining electrical power, and analyzing simple AC circuits.
+This project is a Python-based interactive calculator designed to perform various electrical circuit computations. It provides tools for calculating series/parallel resistances, converting resistor networks between Star  and Delta  configurations, determining electrical power, and analyzing simple AC circuits.
 
-The program is completely menu-driven and runs in the terminal.
+The program is completely menu-driven and runs in the terminal with recursive menu navigation,
 
 Features:
 
@@ -27,6 +27,9 @@ Handles simple series RLC AC circuits.
 -Capacitive reactance	​
 -Total impedance (linear sum)
 -RMS current
+
+5. Recursive Menu Navigation
+Allows users to return to the main menu or exit at any time.
 
 Working:
 
